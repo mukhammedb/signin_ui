@@ -51,7 +51,7 @@ class _SignInScreenState extends State<SignInScreen> {
             const SizedBox(
               height: 70,
             ),
-            const Text('Салам ',style: TextStyle(
+            const Text('Ассалам алайкум ',style: TextStyle(
               fontSize: 35, fontWeight: FontWeight.bold,
             ),),
             SizedBox(height: size.height*0.02,),
